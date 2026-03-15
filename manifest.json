@@ -1,0 +1,16 @@
+{
+  "name": "Kindling",
+  "short_name": "Kindling",
+  "description": "A modern, fast HackerNews reader",
+  "start_url": "/kindling/",
+  "display": "standalone",
+  "background_color": "#2e3440",
+  "theme_color": "#88c0d0",
+  "icons": [
+    {
+      "src": "/kindling/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
